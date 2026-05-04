@@ -433,5 +433,5 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View { ContentView() }
 
 
-    For this app is to help pick an outfit for weather pick weather type click style me and you got your outift.You can also add now clothes pick a category,weather and color and add it to your closet.You can also buy new things to add to your wardrobe and buy them for later .The ony issue was adding new code and putting it in to my already existing code and i would get error so i had AI redo it for me again.
+    The purpose of this app is to help pick an outfit for any type of weather.How you do it is pick weather type click style me and you got your outift.You can also add new clothes all you have to do it pick a category,weather and color then add it to your closet.You can also buy new things to add to your wardrobe and buy them for later .The ony issue was adding new code and putting it in to my already existing code and i would get error so i had AI add in the new code in to my existing code with no errors several times.
 }
