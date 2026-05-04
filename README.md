@@ -340,6 +340,9 @@ struct EditItemView: View {
         _weather = State(initialValue: item.weather)
     }
 
+
+    In this app you can get outfit help for any weather you choose a weather type,press styleme and you get your outfit.You also add new items with the category,weather type and color.You can also buy new things to add to your closet it add to a pervious outfit.The only issue i had was adding new code to my already existing code i would add it in and would get a bunch of errors so i would have to go bac and have to AI add in the code for me.
+
     var body: some View {
         NavigationView {
             Form {
